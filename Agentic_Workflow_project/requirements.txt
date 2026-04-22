@@ -1,0 +1,7 @@
+langchain
+langgraph
+google-genai          # <--- Purane ki jagah naya
+faiss-cpu
+sentence-transformers
+python-dotenv
+numpy
